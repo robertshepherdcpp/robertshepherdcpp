@@ -7,8 +7,9 @@
 I am very intersted in c++, as I mentioned above. I mainly contribute to my own libraries, like `pse` which is just a general purpose library like the c++ standard libarary. I try to contribute to something everyday! I also want to contribute more to SerenityOS becuase it looks so cool. I would class myself as a c++ expert. You can find me on stackoverlow. I am willing to contribute to anything c++!
 
 
+
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 <!---
