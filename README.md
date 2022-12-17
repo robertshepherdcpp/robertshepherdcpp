@@ -6,12 +6,6 @@
 
 I am very intersted in c++, as I mentioned above. I mainly contribute to my own libraries, like `pse` which is just a general purpose library like the c++ standard libarary. I try to contribute to something everyday! I also want to contribute more to SerenityOS becuase it looks so cool. I would class myself as a c++ expert. You can find me on stackoverlow. I am willing to contribute to anything c++!
 
-These are some of my repos, The one i am predominantly working on now is the `pse` library:
-
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=pse&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=files&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
 Repositories | How often i contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
 👉 pse | ✅ At least 5 commits a day | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
