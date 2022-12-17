@@ -17,9 +17,10 @@ These are some of my repos, The one i am predominantly working on now is the `ps
 
 Repositories | How often i contribute | My current issues with them
 ------------ | ------------- | -------------
-👉 pse | ✅ At 5 commits a day | ⭕️ Lots of the files have bugs
+👉 pse | ✅ At least 5 commits a day | ⭕️ Lots of the files have bugs
 👉 files | ✅ I dont really add anything more to them | ⭕️ Not really many issues as they are only small programs
 👉 SerenityOS | ✅ I try to get familiar with the codebase at least every other day | ⭕️ It is a big codebase in SerenityOS!
+👉 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone!
 
 My favorite ever thing:
 
