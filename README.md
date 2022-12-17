@@ -15,14 +15,12 @@ Repositories | How often i contribute | My current issues with them  | Link
 
 These are some of my repos, The one i am predominantly working on now is the `pse` library:
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=pse&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=files&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=pse&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=files&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 These are some of my GitHub stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertshepherdcpp&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />         
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=robertshepherdcpp&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertshepherdcpp&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=robertshepherdcpp&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />      
+
 
 My favorite ever thing:
 
