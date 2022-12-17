@@ -15,12 +15,12 @@ These are some of my repos, The one i am predominantly working on now is the `ps
 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=files&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-Repositories | How often i contribute | My current issues with them
------------- | ------------- | -------------
-👉 pse | ✅ At least 5 commits a day | ⭕️ Lots of the files have bugs
-👉 files | ✅ I dont really add anything more to them | ⭕️ Not really many issues as they are only small programs
-👉 SerenityOS | ✅ I try to get familiar with the codebase at least every other day | ⭕️ It is a big codebase in SerenityOS!
-👉 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone!
+Repositories | How often i contribute | My current issues with them  | Link
+------------ | ------------- | ------------- | -------------------
+👉 pse | ✅ At least 5 commits a day | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
+👉 files | ✅ I dont really add anything more to them | ⭕️ Not really many issues as they are only small programs | 🔗 https://github.com/robertshepherdcpp/files
+👉 SerenityOS | ✅ I try to get familiar with the codebase at least every other day | ⭕️ It is a big codebase in SerenityOS! | 🔗 https://github.com/SerenityOS/serenity
+👉 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
 
 My favorite ever thing:
 
