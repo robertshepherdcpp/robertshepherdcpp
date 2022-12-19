@@ -27,6 +27,10 @@ My favorite ever thing:
 <c>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </c>
+  
+  Other Links:
+  
+  My gists: https://gist.github.com/robertshepherdcpp/
 
 <!---
 robertshepherdcpp/robertshepherdcpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
