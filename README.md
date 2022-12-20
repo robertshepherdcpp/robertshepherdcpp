@@ -14,7 +14,7 @@ Repositories | How often i contribute | My current issues with them  | Link
 👩‍💻 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
 👩‍💻 format | ✅ I don't contribute to it any more | ⭕️ I have had it a while and I just thought I would put it on github, it doesn't need anything more added to it as it is just supposed to be a really basic tool. | 🔗 https://github.com/robertshepherdcpp/format
 
-Those are some of my repos, The one i am predominantly working on now is the `pse` library.
+Those are some of my repos/ones I want to contribute to, The one i am predominantly working on now is the `pse` library.
 
 <details><summary>Some of my Repositories</summary>
 <p>
