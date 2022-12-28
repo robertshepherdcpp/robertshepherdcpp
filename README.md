@@ -58,6 +58,31 @@ My favorite ever thing:
 </p>
 </details>
 
+<details><summary>Other links</summary>
+<p>
+  
+### Timeline of me and GitHub!
+```
+|
+|
+. September, 15 2022     *I made my first contribution on Github!*
+|
+|
+. October, 20 2022       *I start using Github a lot! I made Decomp!*
+. October, 23, 2022      *I made Files!*
+|
+. October 30, 2022       *I made my first pull request!*
+. November 2, 2022       *Made yu!*
+|
+. November 19, 2022      *Made the pse library!*
+|
+|
+. December 17, 2022      *Made format!*
+. December 21, 2022      *Made knl!*
+. December 22, 2022      *Made the ont language/syntax!*
+```
+</p>
+</details>
 <!---
 robertshepherdcpp/robertshepherdcpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
