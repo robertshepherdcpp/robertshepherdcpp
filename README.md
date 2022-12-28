@@ -58,7 +58,7 @@ My favorite ever thing:
 </p>
 </details>
 
-<details><summary>Other links</summary>
+<details><summary>Timeline</summary>
 <p>
   
 ### Timeline of me and GitHub!
