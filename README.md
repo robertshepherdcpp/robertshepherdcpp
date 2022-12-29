@@ -80,6 +80,8 @@ My favorite ever thing:
 . December 17, 2022      *Made format!*
 . December 21, 2022      *Made knl!*
 . December 22, 2022      *Made the ont language/syntax!*
+|
+. December 29, 2022      *Made tokenizer!*
 ```
 </p>
 </details>
