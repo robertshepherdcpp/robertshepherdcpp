@@ -10,7 +10,6 @@ Repositories | How often i contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
 👩‍💻 pse | ✅ At least 2 commits a day | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
 👩‍💻 files | ✅ I dont really add anything more to them | ⭕️ Not really many issues as they are only small programs | 🔗 https://github.com/robertshepherdcpp/files
-👩‍💻 SerenityOS | ✅ I try to get familiar with the codebase at least every other day | ⭕️ It is a big codebase in SerenityOS! | 🔗 https://github.com/SerenityOS/serenity
 👩‍💻 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
 👩‍💻 format | ✅ I don't contribute to it any more | ⭕️ I have had it a while and I just thought I would put it on github, it doesn't need anything more added to it as it is just supposed to be a really basic tool. | 🔗 https://github.com/robertshepherdcpp/format
 👩‍💻 ont | ✅ Contribute quite regularly | ⭕️ It is like herb sutters cpp2 syntax in that it converts code into c++ code and then you run it. Herb Sutter's cpp2 is a lot more developed than my ont! | 🔗 https://github.com/robertshepherdcpp/ont
