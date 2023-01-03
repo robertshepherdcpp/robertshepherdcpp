@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robertshepherdcpp. i am a c++ expert.
+- 👋 Hi, I’m @robertshepherdcpp.
 - 👀 I’m extremely interested in c++.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on my repositories or other peoples libraries.
