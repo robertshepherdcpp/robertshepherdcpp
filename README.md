@@ -84,7 +84,10 @@ My favorite ever thing:
 . December 29, 2022      *Made tokenizer!*
 . December 30, 2022      *Made mlib!*
 |
-. January 7, 2022        *Made pythplus!*
+. January 7, 2023        *Made pythplus!*
+|
+|
+. January 28, 2023       *Made nuf*
 ```
 </p>
 </details>
