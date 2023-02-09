@@ -8,7 +8,7 @@ I am a self taught developer! I am very intersted in c++, as I mentioned above. 
 
 Repositories | How often i contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
-👩‍💻 pse | ✅ At least 2 commits a day | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
+👩‍💻 pse | ✅ I don't contribute anymore | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
 👩‍💻 files | ✅ I dont really add anything more to them | ⭕️ Not really many issues as they are only small programs | 🔗 https://github.com/robertshepherdcpp/files
 👩‍💻 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
 👩‍💻 format | ✅ I don't contribute to it any more | ⭕️ I have had it a while and I just thought I would put it on github, it doesn't need anything more added to it as it is just supposed to be a really basic tool. | 🔗 https://github.com/robertshepherdcpp/format
