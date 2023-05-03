@@ -17,7 +17,7 @@ Repositories | How often i contribute | My current issues with them  | Link
 
 Those are some of my repos/ones I want to contribute to, The one I am predominantly working on now is the `pse` library.
 
-<details><summary>Some of my Repositories</summary>
+<details><summary>Some of my Repositories 📝</summary>
 <p>
 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=pse&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=robertshepherdcpp&repo=files&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -36,7 +36,7 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 </details>
 
 
-<details><summary>My favourite thing (C++)</summary>
+<details><summary>My favourite thing (C++) 👨‍💻</summary>
 <p>
 
 <c>
@@ -46,7 +46,7 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 </p>
 </details>
 
-<details><summary>Other links</summary>
+<details><summary>Other links 🖥️</summary>
 <p>
   
   My gists: https://gist.github.com/robertshepherdcpp/
@@ -56,7 +56,7 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 </p>
 </details>
 
-<details><summary>Timeline</summary>
+<details><summary>Timeline 📅</summary>
 <p>
   
 ### Timeline of me and GitHub!
