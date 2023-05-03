@@ -28,7 +28,7 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
   <details><summary>Some of my GitHub stats</summary>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertshepherdcpp&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-  
+  🔥
   [![GitHub Streak](https://streak-stats.demolab.com/?user=robertshepherdcpp)](https://git.io/streak-stats)
   
   
