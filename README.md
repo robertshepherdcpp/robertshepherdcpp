@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my repositories or other peoples libraries.
 - 📫 How to reach me robertcppshepherd@gmail.com.
 
-I am a self taught developer! I am very intersted in c++, as I mentioned above. I mainly contribute to my own libraries, like `mlib` which a very cool, simple and fast template metaprogramming library. I try to contribute to something everyday! I am willing to contribute to anything c++!
+I am a self taught developer! I am very intersted in c++, as I mentioned above. I mainly contribute to my own libraries, like `mlib` which a very cool, simple and fast template metaprogramming library. I try to contribute to something everyday! I am willing to contribute to anything c++! Here is my [resume](https://docs.google.com/document/d/1E-r1dgQjj2ggCQJWbhyn2NFpnHcSyzuIE-Dd8PPwPCs/edit?usp=sharing), as I am looking for some part time work.
 
 Repositories | How often i contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
