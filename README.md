@@ -5,7 +5,7 @@
 - 📫 How to reach me robertcppshepherd@gmail.com.
 - 💬 Ask me about anything [here](https://github.com/robertshepherdcpp/robertshepherdcpp/issues)
 
-I am a self taught developer! I am very intersted in c++, as I mentioned above. I mainly contribute to my own libraries, like `mlib` which a very cool, simple and fast template metaprogramming library. I try to contribute to something everyday! I am willing to contribute to anything c++! I am looking for some part time work, here is my [resume](https://docs.google.com/document/d/1E-r1dgQjj2ggCQJWbhyn2NFpnHcSyzuIE-Dd8PPwPCs/edit?usp=sharing). Please [email](rshepherdcpp@gmail.com) me if you are interseted in hiring me.
+I am a young self taught developer! I am very intersted in c++, as I mentioned above. I mainly contribute to my own libraries, like `mlib` which a very cool, simple and fast template metaprogramming library. I try to contribute to something everyday! I am willing to contribute to anything c++! I am looking for some part time work, here is my [resume](https://docs.google.com/document/d/1E-r1dgQjj2ggCQJWbhyn2NFpnHcSyzuIE-Dd8PPwPCs/edit?usp=sharing). Please [email](rshepherdcpp@gmail.com) me if you are interseted in hiring me.
 
 Repositories | How often i contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
