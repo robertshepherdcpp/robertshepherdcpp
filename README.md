@@ -97,6 +97,11 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 ```
 </p>
 </details>
+
+
+![snake gif](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/output/github-contribution-grid-snake.gif)
+
+
 <!---
 robertshepherdcpp/robertshepherdcpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
