@@ -98,8 +98,23 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 </p>
 </details>
 
+<details><summary>Images of my creations 🖼️</summary>
+<p>
+  
+An image of my flashcard app:
 
+![alt text](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/imgui_cpp_flashcard_app.JPG)
+</p>
+</details>
+
+<details><summary>Snake eating my github contributions 🐍</summary>
+<p>
+  
 ![snake gif](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/output/github-contribution-grid-snake.gif)
+
+</p>
+</details>
+
 
 
 <!---
