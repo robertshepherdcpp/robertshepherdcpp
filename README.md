@@ -115,7 +115,7 @@ An image of my flashcard app:
 </p>
 </details>
 
-<details><summary>My resume</summary>
+<details><summary>My resume 💼</summary>
 <p>
   https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/Resume%20(3).pdf
 </p>
