@@ -115,6 +115,13 @@ An image of my flashcard app:
 </p>
 </details>
 
+<details><summary>My resume</summary>
+<p>
+  ![alt text](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/exported_qrcode_image_600(1).JPG)
+</p>
+</details>
+
+
 
 
 <!---
