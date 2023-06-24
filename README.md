@@ -117,7 +117,7 @@ An image of my flashcard app:
 
 <details><summary>My resume</summary>
 <p>
-  ![alt text](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/exported_qrcode_image_600(1).JPG)
+  ![alt text](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/exported_qrcode_image_600%20(1).png)
 </p>
 </details>
 
