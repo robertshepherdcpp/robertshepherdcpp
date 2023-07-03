@@ -121,6 +121,15 @@ An image of my flashcard app:
 </p>
 </details>
 
+<details>
+  <summary>Job (Hire me) 🧑‍💼</summary>
+  <p>
+    You can hire me on fiverr here: https://www.fiverr.com/rshepherdcpp
+
+    Or you can just email me for bigger jobs!
+  </p>
+</details>
+
 
 
 
