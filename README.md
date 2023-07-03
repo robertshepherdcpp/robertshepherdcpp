@@ -18,6 +18,15 @@ Repositories | How often i contribute | My current issues with them  | Link
 
 Those are some of my repos/ones I want to contribute to, The one I am predominantly working on now is the `mlib` library.
 
+<details>
+  <summary>Job (Hire me) 🧑‍💼</summary>
+  <p>
+    You can hire me on fiverr here: https://www.fiverr.com/rshepherdcpp
+
+    Or you can just email me for bigger jobs!
+  </p>
+</details>
+
 <details><summary>Some of my Repositories 📝</summary>
 <p>
 
@@ -119,15 +128,6 @@ An image of my flashcard app:
 <p>
   https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/Resume%20(3).pdf
 </p>
-</details>
-
-<details>
-  <summary>Job (Hire me) 🧑‍💼</summary>
-  <p>
-    You can hire me on fiverr here: https://www.fiverr.com/rshepherdcpp
-
-    Or you can just email me for bigger jobs!
-  </p>
 </details>
 
 
