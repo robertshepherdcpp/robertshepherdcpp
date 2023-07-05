@@ -9,12 +9,12 @@ I am a young self taught developer! I am very intersted in c++, as I mentioned a
 
 Repositories | How often i contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
-👩‍💻 pse | ✅ I don't contribute anymore | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
-👩‍💻 files | ✅ I dont add anything more to them | ⭕️ Not really many issues as they are only small programs | 🔗 https://github.com/robertshepherdcpp/files
-👩‍💻 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
-👩‍💻 format | ✅ I don't contribute to it any more | ⭕️ I have had it a while and I just thought I would put it on github, it doesn't need anything more added to it as it is just supposed to be a really basic tool. | 🔗 https://github.com/robertshepherdcpp/format
-👩‍💻 ont | ✅ Contribute very occasionally | ⭕️ It is like herb sutters cpp2 syntax in that it converts code into c++ code and then you run it. Herb Sutter's cpp2 is a lot more developed than my ont! | 🔗 https://github.com/robertshepherdcpp/ont
-👩‍💻 mlib | ✅ Contribute quite regularly | ⭕️ It is just like a normal c++ meta-programming library that you would find, but with some extra cool features. | 🔗 https://github.com/robertshepherdcpp/mlib
+👨‍💻 pse | ✅ I don't contribute anymore | ⭕️ Lots of the files have bugs | 🔗 https://github.com/robertshepherdcpp/pse
+👨‍💻 files | ✅ I dont add anything more to them | ⭕️ Not really many issues as they are only small programs | 🔗 https://github.com/robertshepherdcpp/files
+👨‍💻 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
+👨‍💻 format | ✅ I don't contribute to it any more | ⭕️ I have had it a while and I just thought I would put it on github, it doesn't need anything more added to it as it is just supposed to be a really basic tool. | 🔗 https://github.com/robertshepherdcpp/format
+👨‍💻 ont | ✅ Contribute very occasionally | ⭕️ It is like herb sutters cpp2 syntax in that it converts code into c++ code and then you run it. Herb Sutter's cpp2 is a lot more developed than my ont! | 🔗 https://github.com/robertshepherdcpp/ont
+👨‍💻 mlib | ✅ Contribute quite regularly | ⭕️ It is just like a normal c++ meta-programming library that you would find, but with some extra cool features. | 🔗 https://github.com/robertshepherdcpp/mlib
 
 Those are some of my repos/ones I want to contribute to, The one I am predominantly working on now is the `mlib` library.
 
