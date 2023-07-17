@@ -103,6 +103,12 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 |
 |
 . April 4th, 2023        *Made flashcards++!*
+|
+|
+|
+. July 13th, 2023        *Made snake-game!*
+|
+. July 17th, 2023        *Made implicit_learn!*
 ```
 </p>
 </details>
