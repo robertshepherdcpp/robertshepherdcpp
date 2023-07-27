@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on my repositories or other people's repositories.
 - 📫 How to reach me robertcppshepherd@gmail.com.
-- 💬 Ask me about anything [here](https://github.com/robertshepherdcpp/robertshepherdcpp/issues)
+- 💬 Ask me about anything [here](https://github.com/robertshepherdcpp/robertshepherdcpp/issues).
 
 I am a young self taught developer! I am very interested in c++, as I mentioned above. I mainly contribute to my own libraries, like `mlib` which a very cool, simple and fast metaprogramming library. I try to contribute to something everyday! I am willing to contribute to anything C++! I am looking for some part time work, here is my [resume](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/Resume%20(3).pdf). Please [email](rshepherdcpp@gmail.com) me if you are interested in hiring me. You can also hire me on [fiverr](https://www.fiverr.com/rshepherdcpp/program-anything-in-cpp-for-you).
 
