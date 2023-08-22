@@ -109,6 +109,8 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 . July 13th, 2023        *Made snake-game!*
 |
 . July 17th, 2023        *Made implicit_learn!*
+|
+. July 20th, 2023        *Made sfml-chess!*
 ```
 </p>
 </details>
