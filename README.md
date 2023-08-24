@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=robertshepherdcpp&color=blue)
+
 - 👋 Hi, I’m @robertshepherdcpp.
 - 👀 I’m extremely interested in c++.
 - 🌱 I’m currently learning machine learning.
