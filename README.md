@@ -16,7 +16,7 @@ Repositories | How often i contribute | My current issues with them  | Link
 👨‍💻 Decomp | ✅ I don't contribute to it any more | ⭕️ It wasn't really much of a repository and it is very error prone! | 🔗 https://github.com/robertshepherdcpp/Decomp
 👨‍💻 format | ✅ I don't contribute to it any more | ⭕️ I have had it a while and I just thought I would put it on github, it doesn't need anything more added to it as it is just supposed to be a really basic tool. | 🔗 https://github.com/robertshepherdcpp/format
 👨‍💻 ont | ✅ Contribute very occasionally | ⭕️ It is like herb sutters cpp2 syntax in that it converts code into c++ code and then you run it. Herb Sutter's cpp2 is a lot more developed than my ont! | 🔗 https://github.com/robertshepherdcpp/ont
-👨‍💻 mlib | ✅ Contribute quite regularly | ⭕️ It is just like a normal c++ meta-programming library that you would find, but with some extra cool features. | 🔗 https://github.com/robertshepherdcpp/mlib
+👨‍💻 mlib | ✅ The library is mostly finished now | ⭕️ It is just like a normal c++ meta-programming library that you would find, but with some extra cool features. | 🔗 https://github.com/robertshepherdcpp/mlib
 👨‍💻 sfml-chess | ✅ Contribute quite regularly | ⭕️ An app on which you can play chess, the issue is that it is not completed yet. | 🔗 https://github.com/robertshepherdcpp/sfml-chess
 👨‍💻 flashcard-app | ✅ Dont contribute any more | ⭕️ An app that you can use and make flashcards | 🔗 https://github.com/robertshepherdcpp/flashcard-app
 
