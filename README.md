@@ -9,7 +9,7 @@
 
 I am a young self taught developer! I am very interested in c++, as I mentioned above. I mainly contribute to my own libraries, like `mlib` which a very cool, simple and fast metaprogramming library. I try to contribute to something everyday! I am willing to contribute to anything C++! I am looking for some part time work, here is my [resume](https://github.com/robertshepherdcpp/robertshepherdcpp/blob/main/Resume%20(3).pdf). Please [email](rshepherdcpp@gmail.com) me if you are interested in hiring me. You can also hire me on [fiverr](https://www.fiverr.com/rshepherdcpp/program-anything-in-cpp-for-you).
 
-Repositories | How often i contribute | My current issues with them  | Link
+Repositories | How often I contribute | My current issues with them  | Link
 ------------ | ------------- | ------------- | -------------------
 👨‍💻 pse | ✅ I don't contribute anymore | ⭕️ There are a few bugs in pse | 🔗 https://github.com/robertshepherdcpp/pse
 👨‍💻 files | ✅ I dont add anything more to them | ⭕️ Not really many issues as they are only small programs | 🔗 https://github.com/robertshepherdcpp/files
