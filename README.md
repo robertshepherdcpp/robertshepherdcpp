@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @robertshepherdcpp.
 - 👀 I’m extremely interested in c++.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning and leetcode.
 - 💞️ I’m looking to collaborate on my repositories or other people's repositories.
 - 📫 How to reach me robertcppshepherd@gmail.com.
 - 💬 Ask me about anything [here](https://github.com/robertshepherdcpp/robertshepherdcpp/issues).
