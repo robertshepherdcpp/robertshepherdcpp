@@ -73,6 +73,12 @@ Those are some of my repos/ones I want to contribute to, The one I am predominan
 </p>
 </details>
 
+<details> <summary>Leetcode</summary> 
+  <p>
+    <img src="https://leetcard.jacoblin.cool/rshepherdcpp?theme=dark&font=Encode%20Sans&ext=heatmap" />
+  </p>
+</details>
+
 <details><summary>Timeline 📅</summary>
 <p>
   
